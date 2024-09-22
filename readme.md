@@ -6,12 +6,13 @@
 ## 🔍 Question
 * How to Forecast Daily Sales on Sales Superstore Dataset ?
 * How is Our Sales Overall ?
-* Hi
+* Which Ship Mode is Widely Use ?
 * Hi
 * Hi
 
 ## 📊 Analyze
 * Overall, Our Total Sales and Total Order is Growing Over the Years.
+* Our Total Sales is US $ 2261255.4107, This Total Sales Generate by 4.922 Total Order
 
 ## 📄 Data
 Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
