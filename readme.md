@@ -1,3 +1,8 @@
+## 🟡 Carrera
+* Carrera Project Goal is Perform Data Analyst on Sales Superstore Using Python
+* Carrera Project also Generate Dashboard on Data Studio
+* Lastly, Our Project is Forecast Daily Total Sales
+
 ## 🔍 Question
 * How to Forecast Daily Sales on Sales Superstore Dataset ?
 * How is Our Sales Overall ?
@@ -5,11 +10,11 @@
 * Hi
 * Hi
 
-## 📊 Data
-Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
-
 ## Analyze
 * Overall, Our Total Sales and Total Order is Growing Over the Years.
+
+## 📊 Data
+Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
 
 ## 🧠 Model
 * Our Model is Having Multiple Trial, at First, Our Model is Try on Arima Model
