@@ -1,8 +1,15 @@
 ## 🔍 Question
 * How to Forecast Daily Sales on Sales Superstore Dataset ?
+* How is Our Sales Overall ?
+* Hi
+* Hi
+* Hi
 
 ## 📊 Data
 Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
+
+## Analyze
+* Overall, Our Total Sales and Total Order is Growing Over the Years.
 
 ## 🧠 Model
 * Our Model is Having Multiple Trial, at First, Our Model is Try on Arima Model
