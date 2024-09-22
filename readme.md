@@ -10,10 +10,10 @@
 * Hi
 * Hi
 
-## Analyze
+## 📊 Analyze
 * Overall, Our Total Sales and Total Order is Growing Over the Years.
 
-## 📊 Data
+## 📄 Data
 Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
 
 ## 🧠 Model
