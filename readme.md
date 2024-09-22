@@ -19,8 +19,8 @@ Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that O
 ## 🧠 Model
 * Our Model is Having Multiple Trial, at First, Our Model is Try on Arima Model
 * Our Arima Model Fail to Forecast the Daily Test Due to Seasonality
-* Our Second Test is Seasonal Arima, Using Seasonality = 12
-* Finally Our Model is Able to Forecast the Daily Sales Using (2 0 2) (1 1 0 12) Order
+* Our Second Test is Seasonal Arima, Using (2 0 2) (1 1 0 12) Order
+* Finally Our Seasonal Model is Able to Forecast the Daily Sales 
 > ![image](https://github.com/user-attachments/assets/d4cf63f2-6bda-4256-b236-9ac55881687c)
 
 ## 🧨 Carrera Dashboard
