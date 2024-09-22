@@ -25,7 +25,7 @@ Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that O
 > ![image](https://github.com/user-attachments/assets/d4cf63f2-6bda-4256-b236-9ac55881687c)
 
 ## 🧨 Carrera Dashboard
-* [Carrera Project Data Studio Dashboard](https://lookerstudio.google.com/reporting/a29008d1-67a3-4fe4-a881-b00e612583c7)
+[Carrera Project Data Studio Dashboard](https://lookerstudio.google.com/reporting/a29008d1-67a3-4fe4-a881-b00e612583c7)
 
 ## ⚔️ Others
 * [Time Series Reference](https://www.linkedin.com/pulse/time-series-episode-1-how-select-correct-sarima-vasilis-kalyvas-jqcjf/)
