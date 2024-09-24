@@ -4,18 +4,21 @@
 * Lastly, Our Project is Forecast Daily Total Sales
 
 ## 🔍 Question
-* How to Forecast Daily Sales on Sales Superstore Dataset ?
 * How is Our Sales Overall ?
 * Which Ship Mode is Widely Use ?
 * Hi
 * Hi
+* How to Forecast Daily Sales on Sales Superstore Dataset ?
+
+## 📄 Data
+Our Data Originally Available in Kaggle. Consist of 9799 Records and 17 Columns.  
+Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
 
 ## 📊 Analyze
 * Overall, Our Total Sales and Total Order is Growing Over the Years.
 * Our Total Sales is US $ 2261255.4107, This Total Sales Generate by 4.922 Total Order
-
-## 📄 Data
-Our Daily Total Sales Dataset is Already Stationary, Our Three Test State that Our Data Stationary.
+* Most Favorite Ship Mode is Standard Mode. Over 60 % of Our Total Order is Using Standard Ship Mode.
+* Average Daily Trip Standard Mode is 5 Days.
 
 ## 🧠 Model
 * Our Model is Having Multiple Trial, at First, Our Model is Try on Arima Model
